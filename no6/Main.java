@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-		Student x;
+		Student x;//インスタンスの生成
 		
 		x = new Student("某太郎","121I999");//コンストラクタの呼び出し
 		
