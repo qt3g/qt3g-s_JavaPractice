@@ -2,7 +2,7 @@ package no5;
 
 class Main {
 	 public static void main(String[] args) {
-		 Hero h = new Hero();//	インスタンスの生成
+		 Hero h = new Hero();//	インスタンスの生成（インスタンス化）
 		 h.name = "ミナト";
 		 h.hp = 100;
 	
