@@ -2,6 +2,8 @@ package no5;
 
 class Main {
 	 public static void main(String[] args) {
+		 //インスタンスメソッドはstaticメソッドと違いインスタンスの生成が必須である
+		 //✖	Hero().name
 		 Hero h = new Hero();//	インスタンスの生成（インスタンス化）
 		 h.name = "ミナト";
 		 h.hp = 100;
