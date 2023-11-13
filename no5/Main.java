@@ -17,14 +17,11 @@ class Main {
 		 m2.suffix = 'B';
 	
 		 //冒険の始まり
-		 //h.slip();
-		 //h.sit(30);
-		 //m1.run();
-		 //m2.run();
-		 //h.sleep();
-		 Hero h2;
-		 h2 = h;
-		 h2.hp = 200;
+		 h.slip();
+		 h.sit(30);
+		 m1.run();
+		 m2.run();
+		 h.sleep();
 		 h.run();
 	 }
 } 
