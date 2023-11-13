@@ -6,7 +6,7 @@ public class Main {
 		// TODO 自動生成されたメソッド・スタブ
 		Student x;
 		
-		x = new Student("某太郎","121I999");
+		x = new Student("某太郎","121I999");//コンストラクタの呼び出し
 		
 		System.out.println(x.name + "さんのIDは" + x.id + "です");
 	}
