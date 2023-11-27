@@ -10,6 +10,7 @@ public class GUIFrame2 extends JFrame{
 	JButton btn1;
 	JButton btn2;
 	public GUIFrame2() {
+		// 絶対パスにすること
 		ImageIcon icon1 = new ImageIcon("https://github.com/qt3g/qt3g-s_JavaPractice/blob/main/no7_2/check.png");
 		ImageIcon icon2 = new ImageIcon("https://github.com/qt3g/qt3g-s_JavaPractice/blob/main/no7_2/batsu.png");
 		
