@@ -10,8 +10,8 @@ public class GUIFrame2 extends JFrame{
 	JButton btn1;
 	JButton btn2;
 	public GUIFrame2() {
-		ImageIcon icon1 = new ImageIcon("C:\\pleiades\\2023-06\\workspace\\work2023\\src\\no7_2\\check.png");
-		ImageIcon icon2 = new ImageIcon("Chttps://github.com/qt3g/qt3g-s_JavaPractice/blob/main/no7_2/batsu.png");
+		ImageIcon icon1 = new ImageIcon("https://github.com/qt3g/qt3g-s_JavaPractice/blob/main/no7_2/check.png");
+		ImageIcon icon2 = new ImageIcon("https://github.com/qt3g/qt3g-s_JavaPractice/blob/main/no7_2/batsu.png");
 		
 		JButton button1 = new JButton(icon1);
 
